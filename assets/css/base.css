@@ -1,0 +1,12 @@
+.navbar {
+  background: #CCC;
+}
+
+.hidden {
+  display: none;
+}
+
+.logo {
+  height: 28px;
+  width: 112px;
+}
